@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an aspiring Computer Engineer @ The Technion
+
+⚡ Fun fact: My personal name literally translates to Thunder Blonde, which is how i got my userame! :)
