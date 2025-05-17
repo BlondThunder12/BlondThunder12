@@ -8,7 +8,7 @@ I’m super passionate about software development and turning ideas into reality
 ### 🌱 Currently:
 - 🧠 Learning Data Structures and software design patterns whilst incorpirating C++ into my work.
 - 🕹️ Building a 1v1 FPS game in Unreal Engine 5
-- 
+
 ### 🔧 Tools & Tech:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
