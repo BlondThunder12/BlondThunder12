@@ -1,19 +1,22 @@
 ## Hi there 👋
 
-<!--
-**BlondThunder12/BlondThunder12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Raaed Ashkar, an aspiring Computer Engineer @ The Technion ⚡⚙️  
+I’m super passionate about software development and turning ideas into reality.
 
-Here are some ideas to get you started:
+⚡ **Fun fact:** My name literally translates to *Thunder Blonde*, which inspired my username!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm an aspiring Computer Engineer @ The Technion
+### 🌱 Currently:
+- 🧠 Learning Data Structures and software design patterns whilst incorpirating C++ into my work.
+- 🕹️ Building a 1v1 FPS game in Unreal Engine 5
+- 
+### 🔧 Tools & Tech:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine&logoColor=white)
 
-⚡ Fun fact: My personal name literally translates to Thunder Blonde, which is how i got my userame! :)
+### 📫 Reach Me:
+- 🧠 [Check out my projects](https://github.com/BlondThunder12)
+
+---
