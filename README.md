@@ -16,7 +16,4 @@ I’m super passionate about software development and turning ideas into reality
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine&logoColor=white)
 
-### 📫 Reach Me:
-- 🧠 [Check out my projects](https://github.com/BlondThunder12)
-
 ---
