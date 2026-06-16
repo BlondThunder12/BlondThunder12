@@ -6,8 +6,8 @@ I’m super passionate about software development and turning ideas into reality
 ⚡ **Fun fact:** My name literally translates to *Thunder Blonde*, which inspired my username!
 
 ### 🌱 Currently:
-- 🧠 Learning Data Structures and software design patterns whilst incorpirating C++ into my work.
-- 🕹️ Building a 1v1 FPS game in Unreal Engine 5
+-  Currently studying Data Structures, Computer Architechture, Operating Systems and Image Processing.
+- Building a 1v1 FPS game in Unreal Engine 5 (on hold sadly)
 
 ### 🔧 Tools & Tech:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
