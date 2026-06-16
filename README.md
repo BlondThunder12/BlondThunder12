@@ -6,7 +6,7 @@ I’m super passionate about software development and turning ideas into reality
 ⚡ **Fun fact:** My name literally translates to *Thunder Blonde*, which inspired my username!
 
 ### 🌱 Currently:
--  Currently studying Data Structures, Computer Architechture, Operating Systems and Image Processing.
+- Studying Data Structures, Computer Architechture, Operating Systems and Image Processing.
 - Building a 1v1 FPS game in Unreal Engine 5 (on hold sadly)
 
 ### 🔧 Tools & Tech:
